@@ -37,41 +37,41 @@
 - 登录
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-404a67d296dcc6a4?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 用户
+- 用户管理
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-e79b692b241c8f11?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 留言
+- 留言管理
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-609c4891b4ab23a3?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 评论
+- 评论管理
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-db665794ec44034c?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 文章
+- 文章管理
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-e1c5974721e7f1f2?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-编辑文章
+- 写文章
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-fc22b78e0e2aa3ee?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 网站信息
+- 网站信息管理
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-bbd6954132e55967?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 关注我
+- 关注我管理
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-6f4434e2976b73e5?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 轮播图
+- 轮播图管理
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-f6258d5f6ddabf0d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 默认头像
+- 默认头像管理
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-7749e768b0773cce?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 友情链接
+- 友情链接管理
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-355774aa4e671d44?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 开发历程
+- 开发历程管理
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-3c657da0309696d3?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# 接口
+# 接口文档
 *********
 - 前台
 
@@ -80,7 +80,17 @@
 
 ![image](https://upload-images.jianshu.io/upload_images/15449003-f40a6ae41dab740d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+# 项目结构
+**********
+- API
+![](https://upload-images.jianshu.io/upload_images/15449003-56833ea2a2db6c21.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 前台
+![](https://upload-images.jianshu.io/upload_images/15449003-f20ed614180455a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 后台
+![](https://upload-images.jianshu.io/upload_images/15449003-906042cfc7d221e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ # 数据库
+******
+![](https://upload-images.jianshu.io/upload_images/15449003-c09154e87419059c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 技术栈
 ****
 - 后端
